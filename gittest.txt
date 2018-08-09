@@ -4,4 +4,8 @@ hello,git world!
 modify 2
 modify 3
 modify 4
+<<<<<<< HEAD
 DASFSmGFDSBHGodiFGDSGfFDSBFy 5
+=======
+AAAmodiSSSfyDDD 5
+>>>>>>> branchtest
